@@ -1,0 +1,25 @@
+.head-text {
+    font-size: 6rem;
+}
+
+.info-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-top: 15rem;
+    margin-bottom: 15rem;
+}
+
+#element {
+    font-size: 3rem;
+}
+
+.sub-text {
+    font-size: 2rem;
+}
+
+.gif-image {
+    margin-top: 10px;
+    position: absolute;
+}
